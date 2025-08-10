@@ -10,6 +10,7 @@ public class Sumupto0 {
         
     }
     System.out.println("The sum of digits are="+sum);
+    sc.close();
 }
     
 }
