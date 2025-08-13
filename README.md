@@ -8,4 +8,12 @@ I am AKS.
 |  |
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Array
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Ayush-Singh-16/mylearning/tree/master/2048-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Ayush-Singh-16/mylearning/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
