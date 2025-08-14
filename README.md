@@ -8,12 +8,14 @@ I am AKS.
 |  |
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
 ## Array
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ayush-Singh-16/mylearning/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Ayush-Singh-16/mylearning/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Ayush-Singh-16/mylearning/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/2058-concatenation-of-array) |
@@ -30,4 +32,12 @@ I am AKS.
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Ayush-Singh-16/mylearning/tree/master/1791-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
