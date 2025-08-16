@@ -15,6 +15,7 @@ I am AKS.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/0001-two-sum) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1031-add-to-array-form-of-integer) |
@@ -56,6 +57,7 @@ I am AKS.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-Singh-16/mylearning/tree/master/1960-check-if-the-sentence-is-pangram) |
