@@ -21,6 +21,7 @@ I am AKS.
 | [1580-shuffle-the-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Ayush-Singh-16/mylearning/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Ayush-Singh-16/mylearning/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Ayush-Singh-16/mylearning/tree/master/1899-count-items-matching-a-rule) |
@@ -43,6 +44,7 @@ I am AKS.
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
+| [1677-matrix-diagonal-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Ayush-Singh-16/mylearning/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
