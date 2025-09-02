@@ -8,6 +8,7 @@ I am AKS.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ayush-Singh-16/mylearning/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Ayush-Singh-16/mylearning/tree/master/0367-valid-perfect-square) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -96,6 +97,7 @@ I am AKS.
 | ------- |
 | [0069-sqrtx](https://github.com/Ayush-Singh-16/mylearning/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Ayush-Singh-16/mylearning/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Ayush-Singh-16/mylearning/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayush-Singh-16/mylearning/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
