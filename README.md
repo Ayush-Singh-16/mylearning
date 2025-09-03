@@ -19,6 +19,7 @@ I am AKS.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/0001-two-sum) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Ayush-Singh-16/mylearning/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1031-add-to-array-form-of-integer) |
@@ -99,6 +100,7 @@ I am AKS.
 | [0278-first-bad-version](https://github.com/Ayush-Singh-16/mylearning/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Ayush-Singh-16/mylearning/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayush-Singh-16/mylearning/tree/master/0374-guess-number-higher-or-lower) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Ayush-Singh-16/mylearning/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Interactive
 |  |
 | ------- |
