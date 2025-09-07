@@ -37,6 +37,7 @@ I am AKS.
 | [1580-shuffle-the-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Ayush-Singh-16/mylearning/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Ayush-Singh-16/mylearning/tree/master/1833-find-the-highest-altitude) |
@@ -109,6 +110,7 @@ I am AKS.
 | [0441-arranging-coins](https://github.com/Ayush-Singh-16/mylearning/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ayush-Singh-16/mylearning/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1646-kth-missing-positive-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1646-kth-missing-positive-number) |
 ## Interactive
 |  |
 | ------- |
