@@ -31,6 +31,7 @@ I am AKS.
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ayush-Singh-16/mylearning/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ayush-Singh-16/mylearning/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ayush-Singh-16/mylearning/tree/master/1505-create-target-array-in-the-given-order) |
@@ -64,6 +65,7 @@ I am AKS.
 | ------- |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Ayush-Singh-16/mylearning/tree/master/1791-richest-customer-wealth) |
@@ -112,6 +114,7 @@ I am AKS.
 | [0441-arranging-coins](https://github.com/Ayush-Singh-16/mylearning/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ayush-Singh-16/mylearning/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1646-kth-missing-positive-number) |
 ## Interactive
 |  |
