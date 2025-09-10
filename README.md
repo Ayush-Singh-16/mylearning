@@ -42,6 +42,7 @@ I am AKS.
 | [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/1677-matrix-diagonal-sum) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ayush-Singh-16/mylearning/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/Ayush-Singh-16/mylearning/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Ayush-Singh-16/mylearning/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Ayush-Singh-16/mylearning/tree/master/1899-count-items-matching-a-rule) |
@@ -87,6 +88,7 @@ I am AKS.
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ayush-Singh-16/mylearning/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ayush-Singh-16/mylearning/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting Sort
 |  |
 | ------- |
@@ -121,6 +123,7 @@ I am AKS.
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ayush-Singh-16/mylearning/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ayush-Singh-16/mylearning/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Interactive
 |  |
 | ------- |
