@@ -20,8 +20,6 @@ class Solution {
                 end=mid-1;
             }
             
-        }if(end==arr[row].length-1){
-            return 0;
         }
         
             return (arr[row].length-1-end);
