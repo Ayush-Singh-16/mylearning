@@ -7,9 +7,6 @@ class Solution {
             }
             x+=2;
         }
-        if(nums.length==1){
-            return nums[0];
-        }
         return -1;
     }
     public int binarysearch(int[] arr, int start, int target){
