@@ -22,6 +22,7 @@ I am AKS.
 | [0001-two-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayush-Singh-16/mylearning/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ayush-Singh-16/mylearning/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -115,6 +116,7 @@ I am AKS.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayush-Singh-16/mylearning/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ayush-Singh-16/mylearning/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Ayush-Singh-16/mylearning/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Ayush-Singh-16/mylearning/tree/master/0367-valid-perfect-square) |
