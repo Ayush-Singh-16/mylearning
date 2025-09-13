@@ -40,7 +40,7 @@ class Solution {
                 return mid-1;
             }
             else if(arr[start]==arr[mid] && arr[end]==arr[mid]){
-                if(end>start && arr[end]<arr[end-1]){
+                if(start<end && arr[end]<arr[end-1]){
                     return end-1;
                 }
                 end--;
