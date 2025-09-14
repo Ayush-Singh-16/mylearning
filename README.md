@@ -8,6 +8,7 @@ I am AKS.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ayush-Singh-16/mylearning/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ayush-Singh-16/mylearning/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ayush-Singh-16/mylearning/tree/master/0441-arranging-coins) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1031-add-to-array-form-of-integer) |
@@ -25,6 +26,7 @@ I am AKS.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ayush-Singh-16/mylearning/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ayush-Singh-16/mylearning/tree/master/0792-binary-search) |
@@ -79,6 +81,7 @@ I am AKS.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ayush-Singh-16/mylearning/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
@@ -90,6 +93,7 @@ I am AKS.
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ayush-Singh-16/mylearning/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ayush-Singh-16/mylearning/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -110,6 +114,7 @@ I am AKS.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 ## Binary Search
 |  |
@@ -120,6 +125,7 @@ I am AKS.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Ayush-Singh-16/mylearning/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Ayush-Singh-16/mylearning/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayush-Singh-16/mylearning/tree/master/0374-guess-number-higher-or-lower) |
