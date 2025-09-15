@@ -23,8 +23,6 @@ class Solution {
                 x=arr[mid][1];
                 end=mid-1;
             }
-           
-            
             else{
                 start=mid+1;
             }
