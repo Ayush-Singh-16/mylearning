@@ -12,7 +12,7 @@ class Solution {
         int i=0;
         while(i<arr.length){
             int index=arr[i];
-            if(index!=arr.length && arr[i]!=arr[index]){
+            if(index <arr.length && arr[i]!=arr[index]){
                 swap(arr,index,i);
             }
             else{
