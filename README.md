@@ -32,6 +32,7 @@ I am AKS.
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/Ayush-Singh-16/mylearning/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ayush-Singh-16/mylearning/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ayush-Singh-16/mylearning/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
@@ -88,6 +89,7 @@ I am AKS.
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Ayush-Singh-16/mylearning/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ayush-Singh-16/mylearning/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
@@ -101,6 +103,7 @@ I am AKS.
 | ------- |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/Ayush-Singh-16/mylearning/tree/master/0436-find-right-interval) |
+| [0645-set-mismatch](https://github.com/Ayush-Singh-16/mylearning/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ayush-Singh-16/mylearning/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ayush-Singh-16/mylearning/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -124,6 +127,7 @@ I am AKS.
 | ------- |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Ayush-Singh-16/mylearning/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 ## Binary Search
 |  |
