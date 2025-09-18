@@ -1,12 +1,20 @@
 class Solution {
     public int findDuplicate(int[] nums) {
         cyclicsort(nums);
-        for(int i=0;i<nums.length;i++){
-            if(i+1!=nums[i]){
-                return nums[i];
-            }
+       int start=0,end=nums.length-1;
+       while(start<=end){
+        int mid=start+(end-start)/2;
+        if(nums[mid]!=mid+1){
+            return nums[mid];
         }
-        return nums.length;
+        else if(nums[mid]==mid+1){
+            start=mid+1;
+        }
+        else{
+            end=mid-1;
+        }
+       }
+        return start;
     }
     void cyclicsort(int[] arr){
         int i=0;
