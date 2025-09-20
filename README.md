@@ -24,6 +24,7 @@ I am AKS.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayush-Singh-16/mylearning/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Ayush-Singh-16/mylearning/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0162-find-peak-element) |
@@ -63,6 +64,7 @@ I am AKS.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -77,6 +79,7 @@ I am AKS.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
