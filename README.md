@@ -41,6 +41,7 @@ I am AKS.
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0898-transpose-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0921-spiral-matrix-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ayush-Singh-16/mylearning/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -69,6 +70,7 @@ I am AKS.
 | [0059-spiral-matrix-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0059-spiral-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0898-transpose-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0921-spiral-matrix-iii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ayush-Singh-16/mylearning/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Ayush-Singh-16/mylearning/tree/master/2048-build-array-from-permutation) |
@@ -85,6 +87,7 @@ I am AKS.
 | [0059-spiral-matrix-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0059-spiral-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0898-transpose-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0921-spiral-matrix-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/1677-matrix-diagonal-sum) |
