@@ -29,6 +29,7 @@ I am AKS.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0162-find-peak-element) |
+| [0238-product-of-array-except-self](https://github.com/Ayush-Singh-16/mylearning/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/Ayush-Singh-16/mylearning/tree/master/0436-find-right-interval) |
@@ -78,6 +79,7 @@ I am AKS.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ayush-Singh-16/mylearning/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Ayush-Singh-16/mylearning/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
