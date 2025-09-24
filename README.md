@@ -8,6 +8,7 @@ I am AKS.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ayush-Singh-16/mylearning/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ayush-Singh-16/mylearning/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ayush-Singh-16/mylearning/tree/master/0441-arranging-coins) |
@@ -29,6 +30,7 @@ I am AKS.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Ayush-Singh-16/mylearning/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0287-find-the-duplicate-number) |
@@ -132,6 +134,7 @@ I am AKS.
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ayush-Singh-16/mylearning/tree/master/1468-check-if-n-and-its-double-exist) |
