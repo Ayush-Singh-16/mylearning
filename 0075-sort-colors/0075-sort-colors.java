@@ -1,26 +1,27 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int r=0,w=0,b=0,start=0;
-        while(start<=nums.length-1){
-            if(nums[start]==0){
-                r++;
+        dutchsort(nums);
+    }
+    void dutchsort(int[] arr){
+        int start=0,mid=0,end=arr.length-1;
+        while(mid<=end){
+            if(arr[mid]==2){
+                swap(arr,mid,end);
+                end--;
             }
-            else if(nums[start]==1){
-                w++;
+            else if(arr[mid]==0){
+                swap(arr,start,mid);
+                start++;
+                mid++;
             }
             else{
-                b++;
-            } 
-            start++;
+                mid++;
+            }
         }
-        for(int i=0;i<r;i++){
-            nums[i]=0;
-        }
-        for(int i=r;i<r+w;i++){
-            nums[i]=1;
-        }
-        for(int i=r+w;i<r+w+b;i++){
-            nums[i]=2;
-        }
+    }
+    void swap(int[] arr,int a,int b){
+        int temp=arr[a];
+        arr[a]=arr[b];
+        arr[b]=temp;
     }
 }
