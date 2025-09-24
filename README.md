@@ -27,6 +27,7 @@ I am AKS.
 | [0041-first-missing-positive](https://github.com/Ayush-Singh-16/mylearning/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/Ayush-Singh-16/mylearning/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0162-find-peak-element) |
@@ -116,6 +117,7 @@ I am AKS.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ayush-Singh-16/mylearning/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/Ayush-Singh-16/mylearning/tree/master/0436-find-right-interval) |
 | [0645-set-mismatch](https://github.com/Ayush-Singh-16/mylearning/tree/master/0645-set-mismatch) |
@@ -134,6 +136,7 @@ I am AKS.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ayush-Singh-16/mylearning/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
