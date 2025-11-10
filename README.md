@@ -7,6 +7,7 @@ I am AKS.
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayush-Singh-16/mylearning/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ayush-Singh-16/mylearning/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ I am AKS.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Ayush-Singh-16/mylearning/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0921-spiral-matrix-iii) |
@@ -131,6 +133,7 @@ I am AKS.
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayush-Singh-16/mylearning/tree/master/0067-add-binary) |
 | [1899-count-items-matching-a-rule](https://github.com/Ayush-Singh-16/mylearning/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-Singh-16/mylearning/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -144,6 +147,7 @@ I am AKS.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayush-Singh-16/mylearning/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Ayush-Singh-16/mylearning/tree/master/0645-set-mismatch) |
