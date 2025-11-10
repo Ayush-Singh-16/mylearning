@@ -61,6 +61,7 @@ I am AKS.
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/1646-kth-missing-positive-number) |
+| [1651-shuffle-string](https://github.com/Ayush-Singh-16/mylearning/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ayush-Singh-16/mylearning/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/Ayush-Singh-16/mylearning/tree/master/1791-richest-customer-wealth) |
@@ -134,6 +135,7 @@ I am AKS.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ayush-Singh-16/mylearning/tree/master/0067-add-binary) |
+| [1651-shuffle-string](https://github.com/Ayush-Singh-16/mylearning/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/Ayush-Singh-16/mylearning/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-Singh-16/mylearning/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
