@@ -135,6 +135,7 @@ I am AKS.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ayush-Singh-16/mylearning/tree/master/0067-add-binary) |
+| [1205-defanging-an-ip-address](https://github.com/Ayush-Singh-16/mylearning/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Ayush-Singh-16/mylearning/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/Ayush-Singh-16/mylearning/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-Singh-16/mylearning/tree/master/1960-check-if-the-sentence-is-pangram) |
