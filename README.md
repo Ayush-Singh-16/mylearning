@@ -139,6 +139,7 @@ I am AKS.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ayush-Singh-16/mylearning/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/Ayush-Singh-16/mylearning/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Ayush-Singh-16/mylearning/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Ayush-Singh-16/mylearning/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Ayush-Singh-16/mylearning/tree/master/1651-shuffle-string) |
@@ -154,6 +155,7 @@ I am AKS.
 | [0075-sort-colors](https://github.com/Ayush-Singh-16/mylearning/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Ayush-Singh-16/mylearning/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ayush-Singh-16/mylearning/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
