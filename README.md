@@ -196,4 +196,8 @@ I am AKS.
 | ------- |
 | [0278-first-bad-version](https://github.com/Ayush-Singh-16/mylearning/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayush-Singh-16/mylearning/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ayush-Singh-16/mylearning/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
