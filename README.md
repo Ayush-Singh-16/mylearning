@@ -14,6 +14,7 @@ I am AKS.
 | [0367-valid-perfect-square](https://github.com/Ayush-Singh-16/mylearning/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ayush-Singh-16/mylearning/tree/master/0441-arranging-coins) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1031-add-to-array-form-of-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Singh-16/mylearning/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ayush-Singh-16/mylearning/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -202,4 +203,8 @@ I am AKS.
 | [0175-combine-two-tables](https://github.com/Ayush-Singh-16/mylearning/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Ayush-Singh-16/mylearning/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Ayush-Singh-16/mylearning/tree/master/0177-nth-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
