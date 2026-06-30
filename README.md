@@ -34,6 +34,7 @@ I am AKS.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-Singh-16/mylearning/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Ayush-Singh-16/mylearning/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
@@ -108,6 +109,7 @@ I am AKS.
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Ayush-Singh-16/mylearning/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -119,12 +121,14 @@ I am AKS.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Ayush-Singh-16/mylearning/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Ayush-Singh-16/mylearning/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ayush-Singh-16/mylearning/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/Ayush-Singh-16/mylearning/tree/master/0436-find-right-interval) |
 | [0645-set-mismatch](https://github.com/Ayush-Singh-16/mylearning/tree/master/0645-set-mismatch) |
@@ -207,4 +211,8 @@ I am AKS.
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ayush-Singh-16/mylearning/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayush-Singh-16/mylearning/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
