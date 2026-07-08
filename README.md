@@ -38,6 +38,7 @@ I am AKS.
 | [0189-rotate-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Ayush-Singh-16/mylearning/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Ayush-Singh-16/mylearning/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/Ayush-Singh-16/mylearning/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -159,6 +160,7 @@ I am AKS.
 | ------- |
 | [0075-sort-colors](https://github.com/Ayush-Singh-16/mylearning/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ayush-Singh-16/mylearning/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Singh-16/mylearning/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ayush-Singh-16/mylearning/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Ayush-Singh-16/mylearning/tree/master/0861-flipping-an-image) |
