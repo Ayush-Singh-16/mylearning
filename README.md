@@ -25,6 +25,7 @@ I am AKS.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-Singh-16/mylearning/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayush-Singh-16/mylearning/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Ayush-Singh-16/mylearning/tree/master/0041-first-missing-positive) |
@@ -158,6 +159,7 @@ I am AKS.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ayush-Singh-16/mylearning/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ayush-Singh-16/mylearning/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ayush-Singh-16/mylearning/tree/master/0283-move-zeroes) |
